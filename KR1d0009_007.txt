@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 7
+#+DATE: 2015-08-24 22:07:33.123803
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1d0009_WYG_007-1a>¶
 欽定四庫全書¶
 　周官總義卷七　　　　　宋　易袚　撰¶
@@ -310,4 +312,3 @@
 六鄉四郊之吏平教治正政事考夫屋及其衆寡六畜¶
 <pb:KR1d0009_WYG_007-18a>¶
 兵器以待政令¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:07:33.009148
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1d0009_WYG_001-1a>¶
 欽定四庫全書¶
 　周官總義卷一　　　　　宋　易袚　撰¶
@@ -658,4 +660,3 @@
 　凡失財用物辟名者以官刑詔冢宰而誅之其足用¶
 　長財善物者賞之則誅賞之責于大宰可知也㑹計¶
 　之法一舉而上下體統得其正矣¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:07:33.565734
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1d0009_WYG_029-1a>¶
 欽定四庫全書¶
 　周官總義卷二十九　　　　宋　易袚　撰¶
@@ -545,4 +547,3 @@
 <pb:KR1d0009_WYG_029-31a>¶
 　其制與匠人不合益信其非成周之全書也若夫天¶
 　子之九雉九軌則見於上經營國方九里之義詳矣¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:07:33.028597
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1d0009_WYG_002-1a>¶
 欽定四庫全書¶
 　周官總義卷二　　　　　　宋　易袚　撰¶
@@ -487,4 +489,3 @@
 　而後令作其為善糾而後禁止其為惡此宫正所以¶
 　列之於始為善不怠勉之以賞為惡不悛厲之以誅¶
 　此宫伯所以叙之於終反復二官始終可見矣¶
-

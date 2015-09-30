@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:07:33.197246
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1d0009_WYG_011-1a>¶
 欽定四庫全書¶
 　周官總義巻十一　　　　宋　易祓　撰¶
@@ -504,4 +506,3 @@
 　社祭禜祭酺及索鬼神之禮雖其小大異等必以王¶
 　命而後行之其禮制皆有所不可踰此所以繼於大¶
 　封之後¶
-

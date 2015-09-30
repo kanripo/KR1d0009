@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:07:33.061427
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0009_WYG_004-1a>¶
 欽定四庫全書¶
 　周官總義卷四　　　　　　宋　易袚　撰¶
@@ -442,4 +444,3 @@
 　射三耦在寢謂天子不能獨射也有射必有耦有耦¶
 　必有次大射曰遂命三耦取引矢于次此雖諸侯之¶
 　禮亦所以為天子耦次之證¶
-

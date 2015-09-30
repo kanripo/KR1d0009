@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 26
+#+DATE: 2015-08-24 22:07:33.490087
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十六
 <pb:KR1d0009_WYG_026-1a>¶
 欽定四庫全書¶
 　周官總義卷二十六　　　　宋　易袚　撰¶
@@ -520,4 +522,3 @@
 　冒不以絲繫之故曰弗紘如是平畝而馳有殷其震¶
 　地之聲宜若墜矣而不墜是弓之入於部者固而不¶
 　可摇也故謂之國工與輪人為輪之國工同¶
-

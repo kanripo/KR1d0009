@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:07:33.047167
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1d0009_WYG_003-1a>¶
 欽定四庫全書¶
 　周官總義卷三　　　　　宋　易袚　撰¶
@@ -474,4 +476,3 @@
 　為一在人則以十全為上死終則為次為下而有懲¶
 　勸之法在獸則進退之而已又所以貴人而賤畜也¶
 　其與恩及鳥獸而功不至於百姓者異矣¶
-

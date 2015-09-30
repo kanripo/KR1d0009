@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:07:33.103184
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1d0009_WYG_006-1a>¶
 欽定四庫全書¶
 　周官總義卷六　　　　　　宋　易袚　撰¶
@@ -411,4 +413,3 @@
 　平日之所服所乗者于其平日所居所往者而求之¶
 　焉其庶幾乎臯而復之如是者三復而不蘓然後為¶
 　之擗踊哭泣以戒喪事孝子之愛其親至矣¶
-

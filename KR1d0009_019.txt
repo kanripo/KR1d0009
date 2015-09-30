@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:07:33.353916
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1d0009_WYG_019-1a>¶
 欽定四庫全書¶
 　周官總義巻十九　　　　　宋　易祓　撰¶
@@ -326,4 +328,3 @@
 入陳廞馬亦如之¶
 　賔客之時陳馬於館䘮紀而葬陳馬於廟遣車眀器¶
 　之時則陳之於壙以圉人養馬故使之牽而陳之¶
-

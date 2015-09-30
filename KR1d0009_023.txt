@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:07:33.437894
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1d0009_WYG_023-1a>¶
 欽定四庫全書¶
 　周官總義卷二十三　　　　宋　易袚　撰¶
@@ -523,4 +525,3 @@
 　杖故為之共其杖咸軍旅之事尚威也馭衆必以杖故¶
 　為之授有爵者杖若夫共王之齒杖則八十杖於朝¶
 　惟君賜而後用之伊耆氏共之正其職也¶
-

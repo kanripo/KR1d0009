@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:07:33.157696
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1d0009_WYG_009-1a>¶
 欽定四庫全書¶
 　周官總義卷九　　　　　宋　易袚　撰¶
@@ -326,4 +328,3 @@
 　家相與賛其財有師田行役焉五家相與賛其力此¶
 　上之政令所以為易共也五家如此先王之政推而¶
 　達之天下矣¶
-

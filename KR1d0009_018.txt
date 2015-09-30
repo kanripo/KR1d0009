@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:07:33.331494
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1d0009_WYG_018-1a>¶
 欽定四庫全書¶
 　周官總義巻十八　　　　　宋　易袚　撰¶
@@ -304,4 +306,3 @@
 𨽻而時難以索室敺疫大喪先匶及墓入壙以戈擊四¶
 隅敺方良¶
 　占夢季冬聘贈王夢遂令始難敺疫則令此而已¶
-

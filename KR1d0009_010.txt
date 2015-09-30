@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:07:33.182036
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1d0009_WYG_010-1a>¶
 欽定四庫全書¶
 　周官總義巻十　　　　　宋　易祓　撰¶
@@ -328,4 +330,3 @@
 　外朝庫門外之朝内朝路門外之朝¶
 <pb:KR1d0009_WYG_010-19a>¶
 若饗耆老孤子士庶子共其食掌豢祭祀之犬¶
-

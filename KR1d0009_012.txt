@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周官總義
-#+DATE: 2015-09-23 09:37:24
-#+PROPERTY: JUAN 12
+#+DATE: 2015-08-24 22:07:33.217428
+#+PROPERTY: ID KR1d0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1d0009_WYG_012-1a>¶
 欽定四庫全書¶
 　周官總義卷十二　　　　　宋　易祓　撰¶
@@ -578,4 +580,3 @@
 　以槨燾之故每敦一几也吉事變几則從王所在變¶
 　而設之凶事則不知神之所之如顧命之四仍几位¶
 　皆設耳¶
-
